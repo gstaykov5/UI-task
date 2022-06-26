@@ -1,0 +1,16 @@
+body {
+  padding: 1em;
+  background: rgb(230, 228, 228);
+}
+
+@media only screen and (min-width: 680px) {
+  .App {
+    margin-left: 2em;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  .App {
+    margin-left: 12em;
+  }
+}

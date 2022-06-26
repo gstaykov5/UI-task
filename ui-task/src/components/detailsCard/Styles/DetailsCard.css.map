@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,aAAa,CAAC;EACZ,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;EACZ,MAAM,EAAE,OAAO;CAChB;;AAED,MAAM,MAAM,MAAM,MAAM,SAAS,EAAE,MAAM;EACrC,AAAA,aAAa,CAAC;IACZ,KAAK,EAAE,IAAI;IACX,MAAM,EAAE,IAAI;IACZ,aAAa,EAAE,GAAG;GACnB",
+    "sources": [
+        "DetailsCard.scss"
+    ],
+    "names": [],
+    "file": "DetailsCard.css"
+}

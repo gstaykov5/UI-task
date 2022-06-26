@@ -1,0 +1,32 @@
+.posts-container {
+  width: auto;
+}
+
+.posts-container .posts {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin: 0.4em 0;
+  background: white;
+}
+
+@media only screen and (min-width: 540px) {
+  .posts-container {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -webkit-box-pack: start;
+        -ms-flex-pack: start;
+            justify-content: flex-start;
+  }
+  .posts-container .posts {
+    display: unset;
+    margin-right: 1em;
+  }
+}
+/*# sourceMappingURL=Post.css.map */

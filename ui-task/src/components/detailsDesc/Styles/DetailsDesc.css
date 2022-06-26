@@ -1,0 +1,33 @@
+.details-desc .title {
+  margin: 0;
+  font-size: 1.6rem;
+  width: auto;
+  height: 2.8em;
+  margin-bottom: 2.6em;
+  text-align: center;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.details-desc .details {
+  width: auto;
+  height: auto;
+  font-size: 0.9rem;
+  text-align: center;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.details-desc .author {
+  color: #bb650e;
+}
+
+.details-desc .date {
+  margin-top: -1em;
+  margin-bottom: 2em;
+  color: #bb650e;
+}
+
+.details-desc .description {
+  font-weight: bold;
+  font-size: 1.2em;
+}
+/*# sourceMappingURL=DetailsDesc.css.map */

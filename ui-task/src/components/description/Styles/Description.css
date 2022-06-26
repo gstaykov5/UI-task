@@ -1,0 +1,38 @@
+.details-container {
+  margin-bottom: 2em;
+  width: 11.5em;
+  height: 10em;
+  padding-left: 0.4em;
+}
+
+.details-container .title {
+  margin: 0;
+  font-size: 1rem;
+  width: auto;
+  height: 2.8em;
+  overflow: hidden;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.details-container .details {
+  width: auto;
+  height: 4.2em;
+  font-size: 0.9rem;
+  overflow: hidden;
+  margin: 0;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.details-container .desc-btn {
+  border: none;
+  background: none;
+  margin-top: 4.7em;
+  padding: 0;
+  background: #f8f6f6;
+  font-family: 'Rubik', sans-serif;
+}
+
+.details-container .desc-btn:hover {
+  cursor: pointer;
+}
+/*# sourceMappingURL=Description.css.map */

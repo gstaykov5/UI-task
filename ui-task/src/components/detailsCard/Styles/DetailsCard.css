@@ -1,0 +1,14 @@
+.details-card {
+  width: 100%;
+  height: auto;
+  margin: 1.6em 0;
+}
+
+@media only screen and (min-width: 1000px) {
+  .details-card {
+    width: 57em;
+    height: 40em;
+    margin-bottom: 5em;
+  }
+}
+/*# sourceMappingURL=DetailsCard.css.map */

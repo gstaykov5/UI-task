@@ -1,0 +1,14 @@
+.navbar {
+  text-align: center;
+}
+
+.navbar .nav-link {
+  text-decoration: none;
+  font-size: 2em;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.navbar .nav-link:hover {
+  cursor: pointer;
+}
+/*# sourceMappingURL=Navbar.css.map */

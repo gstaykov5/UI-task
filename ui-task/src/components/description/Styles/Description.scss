@@ -1,0 +1,36 @@
+.details-container {
+  margin-bottom: 2em;
+  width: 11.5em;
+  height: 10em;
+  padding-left: 0.4em;
+  
+  .title {
+    margin: 0;
+    font-size: 1rem;
+    width: auto;
+    height: 2.8em;
+    overflow: hidden;
+    font-family: 'Roboto Mono', monospace;
+  }
+  
+  .details {
+    width: auto;
+    height: 4.2em;
+    font-size: 0.9rem;
+    overflow: hidden;
+    margin: 0;
+    font-family: 'Roboto Mono', monospace;
+  }
+
+  .desc-btn {
+    border: none;
+    background: none;
+    margin-top: 4.7em;
+    padding: 0;
+    background: rgb(248, 246, 246);
+    font-family: 'Rubik', sans-serif;
+    &:hover {
+      cursor: pointer;
+    }
+  }
+}
